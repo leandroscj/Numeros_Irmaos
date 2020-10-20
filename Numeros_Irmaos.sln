@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Numeros_Irmaos", "Numeros_Irmaos\Numeros_Irmaos.csproj", "{50BEFF6C-4F99-4ADD-BA77-2578F6BB4B12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numeros_Irmaos.Teste", "Numeros_Irmaos.Teste\Numeros_Irmaos.Teste.csproj", "{FEB2F7C1-D63B-4ED5-A6B9-1748E616524C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50BEFF6C-4F99-4ADD-BA77-2578F6BB4B12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50BEFF6C-4F99-4ADD-BA77-2578F6BB4B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50BEFF6C-4F99-4ADD-BA77-2578F6BB4B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50BEFF6C-4F99-4ADD-BA77-2578F6BB4B12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEB2F7C1-D63B-4ED5-A6B9-1748E616524C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB2F7C1-D63B-4ED5-A6B9-1748E616524C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB2F7C1-D63B-4ED5-A6B9-1748E616524C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB2F7C1-D63B-4ED5-A6B9-1748E616524C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E83C0D1F-458D-4108-9AF4-E67C9D6D8D01}
+	EndGlobalSection
+EndGlobal
